@@ -1,0 +1,7 @@
+globals:
+  angular: false
+  jQuery: false
+plugins:
+  - angular
+rules:
+  quotes: single
